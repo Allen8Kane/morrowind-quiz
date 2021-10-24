@@ -1,0 +1,233 @@
+[
+	{
+		"Id": 1,
+		"Classes": "Войн",
+		"Combat": "7",
+		"Magic": "any",
+		"Stealth": "any"
+	},
+	{
+		"Id": 2,
+		"Classes": "Маг",
+		"Combat": "any",
+		"Magic": "7",
+		"Stealth": "any"
+	},
+	{
+		"Id": 3,
+		"Classes": "Вор",
+		"Combat": "any",
+		"Magic": "any",
+		"Stealth": "7"
+	},
+	{
+		"Id": 4,
+		"Classes": "Рыцарь",
+		"Combat": "6",
+		"Magic": "4",
+		"Stealth": "0"
+	},
+	{
+		"Id": 5,
+		"Classes": "Варвар",
+		"Combat": "6",
+		"Magic": "3",
+		"Stealth": "1"
+	},
+	{
+		"Id": 6,
+		"Classes": "Рыцарь",
+		"Combat": "6",
+		"Magic": "2",
+		"Stealth": "2"
+	},
+	{
+		"Id": 7,
+		"Classes": "Паладин",
+		"Combat": "6",
+		"Magic": "1",
+		"Stealth": "3"
+	},
+	{
+		"Id": 8,
+		"Classes": "Рыцарь",
+		"Combat": "6",
+		"Magic": "0",
+		"Stealth": "4"
+	},
+	{
+		"Id": 9,
+		"Classes": "Лучник",
+		"Combat": "5",
+		"Magic": "5",
+		"Stealth": "0"
+	},
+	{
+		"Id": 10,
+		"Classes": "Лучник",
+		"Combat": "5",
+		"Magic": "4",
+		"Stealth": "1"
+	},
+	{
+		"Id": 11,
+		"Classes": "Лучник",
+		"Combat": "5",
+		"Magic": "3",
+		"Stealth": "2"
+	},
+	{
+		"Id": 12,
+		"Classes": "Разведчик",
+		"Combat": "5",
+		"Magic": "2",
+		"Stealth": "3"
+	},
+	{
+		"Id": 13,
+		"Classes": "Лучник",
+		"Combat": "5",
+		"Magic": "1",
+		"Stealth": "4"
+	},
+	{
+		"Id": 14,
+		"Classes": "Лучник",
+		"Combat": "5",
+		"Magic": "0",
+		"Stealth": "5"
+	},
+	{
+		"Id": 15,
+		"Classes": "Жулик",
+		"Combat": "4",
+		"Magic": "0-6",
+		"Stealth": "0-6"
+	},
+	{
+		"Id": 16,
+		"Classes": "Целитель",
+		"Combat": "3",
+		"Magic": "6",
+		"Stealth": "1"
+	},
+	{
+		"Id": 17,
+		"Classes": "Инквизитор",
+		"Combat": "3",
+		"Magic": "5",
+		"Stealth": "2"
+	},
+	{
+		"Id": 18,
+		"Classes": "Воин Слова",
+		"Combat": "3",
+		"Magic": "4",
+		"Stealth": "3"
+	},
+	{
+		"Id": 19,
+		"Classes": "Воин",
+		"Combat": "3",
+		"Magic": "3",
+		"Stealth": "4"
+	},
+	{
+		"Id": 20,
+		"Classes": "Пилигрим",
+		"Combat": "3",
+		"Magic": "2",
+		"Stealth": "5"
+	},
+	{
+		"Id": 21,
+		"Classes": "Шпион",
+		"Combat": "3",
+		"Magic": "1",
+		"Stealth": "6"
+	},
+	{
+		"Id": 22,
+		"Classes": "Чародей",
+		"Combat": "2",
+		"Magic": "6",
+		"Stealth": "2"
+	},
+	{
+		"Id": 23,
+		"Classes": "Инквизитор",
+		"Combat": "2",
+		"Magic": "5",
+		"Stealth": "3"
+	},
+	{
+		"Id": 24,
+		"Classes": "Воин Слова",
+		"Combat": "2",
+		"Magic": "4",
+		"Stealth": "4"
+	},
+	{
+		"Id": 25,
+		"Classes": "Монах",
+		"Combat": "2",
+		"Magic": "3",
+		"Stealth": "5"
+	},
+	{
+		"Id": 26,
+		"Classes": "Акробат",
+		"Combat": "2",
+		"Magic": "2",
+		"Stealth": "6"
+	},
+	{
+		"Id": 27,
+		"Classes": "Боевой Маг",
+		"Combat": "1",
+		"Magic": "6",
+		"Stealth": "3"
+	},
+	{
+		"Id": 28,
+		"Classes": "Инквизитор",
+		"Combat": "1",
+		"Magic": "5",
+		"Stealth": "4"
+	},
+	{
+		"Id": 29,
+		"Classes": "Воин Слова",
+		"Combat": "1",
+		"Magic": "4",
+		"Stealth": "5"
+	},
+	{
+		"Id": 30,
+		"Classes": "Ассасин",
+		"Combat": "1",
+		"Magic": "3",
+		"Stealth": "6"
+	},
+	{
+		"Id": 31,
+		"Classes": "Боевой Маг",
+		"Combat": "0",
+		"Magic": "6",
+		"Stealth": "4"
+	},
+	{
+		"Id": 32,
+		"Classes": "Инквизитор",
+		"Combat": "0",
+		"Magic": "5",
+		"Stealth": "5"
+	},
+	{
+		"Id": 33,
+		"Classes": "Воин Слова",
+		"Combat": "0",
+		"Magic": "4",
+		"Stealth": "6"
+	}
+]
